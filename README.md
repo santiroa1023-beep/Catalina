@@ -1,32 +1,22 @@
 # Portafolio de Joselin Catalina Reyes Rodriguez
 
-Portafolio web estático con HTML, CSS y JavaScript.
+Sitio web estático desarrollado con HTML, CSS y JavaScript.
 
-## Fotografía
-Copia el archivo original `Joselin.jpeg` dentro de `img/`. La ruta esperada es `img/Joselin.jpeg`.
+## Archivos
 
-## Información confirmada
-- Nombre: Joselin Catalina Reyes Rodriguez.
-- TSU en Desarrollo de Software.
-- Ingeniería en Desarrollo de Software y Gestión de Software, décimo cuatrimestre.
-- Universidad Tecnológica Fidel Velázquez.
+- `index.html`: estructura del portafolio.
+- `styles.css`: diseño visual.
+- `script.js`: menú móvil y año automático.
+- `cata.jpeg`: fotografía de perfil (debes agregarla tú).
 
-## Pendiente de confirmar con Joselin
-- Correo, GitHub y otros datos de contacto.
-- Tecnologías y nivel de dominio.
-- Experiencia laboral, cursos y certificaciones.
-- Proyectos en los que participó y enlaces reales.
-- Descripción personal.
+## Agregar la fotografía
 
-No se inventaron empleos, habilidades, proyectos ni enlaces.
+Copia la fotografía de Catalina dentro de esta misma carpeta y conserva exactamente el nombre:
 
-## Abrir
-Abre `index.html` en un navegador o utiliza Live Server en Visual Studio Code.
+`cata.jpeg`
+
+Debe quedar al mismo nivel que `index.html`, `styles.css` y `script.js`.
 
 ## Publicar en GitHub Pages
-Crea un repositorio público, sube el contenido de esta carpeta (no la carpeta exterior) y activa Settings > Pages > Deploy from a branch > `main` > `/(root)`.
 
-
-GitHub: https://github.com/catareyesrod
-
-La fotografía no se incluye; el diseño utiliza un avatar con las iniciales CR. Los datos de contacto, habilidades y proyectos específicos deben completarse con información confirmada por Joselin.
+Sube el contenido de esta carpeta directamente a la raíz del repositorio `Catalina`. No subas una carpeta contenedora adicional. En GitHub Pages selecciona la rama `main` y la carpeta `/(root)`.

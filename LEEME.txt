@@ -1,1 +1,5 @@
-Este portafolio utiliza un avatar con las iniciales CR. No requiere fotografía para funcionar.
+ANTES DE PUBLICAR:
+1. Agrega la fotografía con el nombre exacto cata.jpeg.
+2. Colócala en esta misma carpeta, junto a index.html.
+3. Sube TODOS los archivos de esta carpeta directamente a la raíz del repositorio Catalina.
+4. Conserva los nombres styles.css y script.js.
